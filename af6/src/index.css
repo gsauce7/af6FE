@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: monospace Staatliches;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('./images/mathilde-langevin-aLpt9nRnnDQ-unsplash.jpg');
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  background-position: center;
+}
